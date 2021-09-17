@@ -7,5 +7,5 @@ View presentation [here](https://www.canva.com/design/DAEMFHRj8xw/3v4c0-NQm1yofe
 * In image captioning, an algorithm is given an image and tasked with producing a sensible caption. This is why recent deep learning approaches mostly include some “attention” mechanism (sometimes even more than one) to help focusing on relevant image features.
 
 * In this project, we demonstrate a formulation of image captioning as an encoder-decoder problem, enhanced by spatial attention over image grid cells.
-* he Dataset used here is by MS_COCO
+* The Dataset used here is by MS_COCO
 
